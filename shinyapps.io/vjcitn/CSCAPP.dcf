@@ -1,0 +1,13 @@
+name: CSCAPP
+title: CSCAPP
+username:
+account: vjcitn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2530387
+bundleId: 3680933
+url: https://vjcitn.shinyapps.io/CSCAPP/
+when: 1601333784.28932
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: csc.R|saveit.rda
